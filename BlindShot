@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lattereal/blindshot/refs/heads/main/yes.lua"))()
